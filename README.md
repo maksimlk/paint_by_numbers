@@ -14,7 +14,7 @@ pip install -r requirements.txt
 List of dependencies:
 ```
 opencv-python~=4.9.0.80
-numpy~=2.0.0rc2
+numpy~=1.26.4
 matplotlib~=3.9.0
 pillow~=10.3.0
 shapely~=2.0.4
